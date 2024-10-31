@@ -7,7 +7,7 @@ Sou um **Desenvolvedor Full Stack** com foco em **Java** ☕, atuando na criaç�
 - Atualmente, estou ampliando minhas habilidades no desenvolvimento **Full Stack com Java**
  
 ## 🚀 Projetos em Destaque
-- [Gerenciador de Estoque com Ênfase em Segurança da Informação](link_do_projeto): Sistema de gerenciamento de estoque web com foco em auditoria e rastreabilidade.
+- [Gerenciador de Estoque com Ênfase em Segurança da Informação](https://github.com/Martinelii/SmartStock-TCC): Sistema de gerenciamento de estoque web.
 
 ## 🔧 Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
