@@ -4,9 +4,7 @@ Sou um **Desenvolvedor Full Stack** com foco em **Java** ☕, atuando na criaç�
 
 ### Um pouco mais sobre mim
 - **Apaixonado por tecnologia** 💻 e inovação, sempre buscando me aprofundar em **Inteligência Artificial** 🧠 e **Robótica** 🤖, áreas nas quais pretendo contribuir no futuro.
-
-### O que eu estou fazendo agora
-Atualmente, estou ampliando minhas habilidades no desenvolvimento **Full Stack com Java**, explorando ferramentas e frameworks modernos para melhorar a **eficiência, a segurança e a experiência do usuário** nos projetos que construo. Além disso, estou desenvolvendo projetos pessoais que combinam **robótica e IA**, trazendo soluções inovadoras e funcionais.
+- Atualmente, estou ampliando minhas habilidades no desenvolvimento **Full Stack com Java**
  
 ## 🚀 Projetos em Destaque
 - [Gerenciador de Estoque com Ênfase em Segurança da Informação](link_do_projeto): Sistema de gerenciamento de estoque web com foco em auditoria e rastreabilidade.
