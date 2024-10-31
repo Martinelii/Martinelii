@@ -19,5 +19,5 @@ Sou um **Desenvolvedor Full Stack** com foco em **Java** ☕, atuando na criaç�
 
 ## 📫 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keven-martineli/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:seuemail@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kevenmartineli@outlook.com)
 
